@@ -1,0 +1,12 @@
+C:\projetinhos\ExampleMinimalApiDapperDemo\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\projetinhos\ExampleMinimalApiDapperDemo\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\projetinhos\ExampleMinimalApiDapperDemo\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\projetinhos\ExampleMinimalApiDapperDemo\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\projetinhos\ExampleMinimalApiDapperDemo\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetinhos\ExampleMinimalApiDapperDemo\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\projetinhos\ExampleMinimalApiDapperDemo\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\projetinhos\ExampleMinimalApiDapperDemo\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\projetinhos\ExampleMinimalApiDapperDemo\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\projetinhos\ExampleMinimalApiDapperDemo\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\projetinhos\ExampleMinimalApiDapperDemo\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\projetinhos\ExampleMinimalApiDapperDemo\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

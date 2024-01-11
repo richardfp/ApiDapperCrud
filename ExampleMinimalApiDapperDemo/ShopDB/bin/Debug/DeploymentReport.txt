@@ -1,0 +1,20 @@
+﻿** Destaques
+     Tabelas que serão recriadas com os dados migrados
+       Nenhum
+     Índices clusterizados que serão removidos
+       Nenhum
+     Índices clusterizados que serão criados
+       Nenhum
+     Possíveis problemas de dados
+       Nenhum
+
+** Ações do usuário
+     Criar
+       [dbo].[Customer] (Tabela)
+       [dbo].[sp_Customer_Delete] (Procedimento)
+       [dbo].[sp_Customer_Get] (Procedimento)
+       [dbo].[sp_Customer_GetAll] (Procedimento)
+       [dbo].[sp_Customer_Insert] (Procedimento)
+       [dbo].[sp_Customer_Update] (Procedimento)
+
+** Ações de suporte

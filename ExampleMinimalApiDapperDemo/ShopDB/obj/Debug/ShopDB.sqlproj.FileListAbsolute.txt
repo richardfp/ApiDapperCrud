@@ -1,0 +1,10 @@
+C:\projetinhos\ExampleMinimalApiDapperDemo\ShopDB\bin\Debug\ShopDB.dacpac
+C:\projetinhos\ExampleMinimalApiDapperDemo\ShopDB\bin\Debug\ShopDB.dll
+C:\projetinhos\ExampleMinimalApiDapperDemo\ShopDB\bin\Debug\ShopDB.pdb
+C:\projetinhos\ExampleMinimalApiDapperDemo\ShopDB\obj\Debug\ShopDB.sqlproj.AssemblyReference.cache
+C:\projetinhos\ExampleMinimalApiDapperDemo\ShopDB\obj\Debug\Model.xml
+C:\projetinhos\ExampleMinimalApiDapperDemo\ShopDB\obj\Debug\refactor.xml
+C:\projetinhos\ExampleMinimalApiDapperDemo\ShopDB\obj\Debug\postdeploy.sql
+C:\projetinhos\ExampleMinimalApiDapperDemo\ShopDB\obj\Debug\predeploy.sql
+C:\projetinhos\ExampleMinimalApiDapperDemo\ShopDB\obj\Debug\ShopDB.dll
+C:\projetinhos\ExampleMinimalApiDapperDemo\ShopDB\obj\Debug\ShopDB.pdb
